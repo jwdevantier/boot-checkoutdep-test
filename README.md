@@ -1,3 +1,9 @@
+from within root dir:
+`boot checkout-dep``
+
+from within examples/todo
+`boot dev-with-checkouts`
+
 # Readux
 
 A ClojureScript library to facilitate predictable state state management for
